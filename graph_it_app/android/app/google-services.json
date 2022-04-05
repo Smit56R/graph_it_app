@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465209214043",
+    "project_id": "graph-it-app",
+    "storage_bucket": "graph-it-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465209214043:android:5e56dbabe2254e8e70eb7e",
+        "android_client_info": {
+          "package_name": "com.example.graph_it_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465209214043-s9rtu8p16kd6srd1gel4stvv7l9hmmc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa0XDMA76U0LcHpr_cC90DtmlSMYDUWX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465209214043-s9rtu8p16kd6srd1gel4stvv7l9hmmc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
